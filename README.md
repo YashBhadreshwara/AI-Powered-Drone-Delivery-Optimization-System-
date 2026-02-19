@@ -31,3 +31,9 @@ The system integrates LLM-based input processing with optimization logic to effi
 - ✅ 98% constraint satisfaction
 - ⚡ <1 second route computation time
 - 🚀 3.3 orders per drone efficiency
+
+![Project Demo](drone_routes_100orders.png)
+
+![Project Demo](sensitivity_analysis.png)
+
+![Project Demo](route_statistics.png)
